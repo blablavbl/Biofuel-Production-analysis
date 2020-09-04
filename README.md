@@ -10,6 +10,8 @@ In this simple, and my first, analysis work the main focus is posed on transform
 Biofuel, any fuel that is derived from biomass—that is, plant or algae material or animal waste. 
 Since such feedstock material can be replenished readily, biofuel is considered to be a source of renewable energy, unlike fossil fuels such as petroleum, coal, and natural gas. Biofuel is commonly advocated as a cost-effective and environmentally benign alternative to petroleum and other fossil fuels, particularly within the context of rising petroleum prices and increased concern over the contributions made by fossil fuels to global warming. 
 
+I first learned about biofuel during high-school and studied the subject more in depth while studying for my bachelor degree in Biotech, so I thought it would have been fun and interesting to apply data analysis to my field of study.
+
 
 
 
